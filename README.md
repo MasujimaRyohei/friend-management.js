@@ -1,0 +1,2 @@
+# FriendManager
+Orgize your friends!
