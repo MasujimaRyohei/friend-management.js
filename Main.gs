@@ -1,3 +1,5 @@
 function doPost(){
+}
 
+function doGet(){
 }
